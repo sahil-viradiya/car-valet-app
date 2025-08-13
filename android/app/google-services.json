@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365059244024",
+    "project_id": "car-valet-f5c1f",
+    "storage_bucket": "car-valet-f5c1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365059244024:android:b0e046601f243091dc200d",
+        "android_client_info": {
+          "package_name": "com.digital.walletparking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzH8-4I4ozS3G8DyczG-Dhv4d-UgvwAmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
